@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name L7805)(type Legacy)(uri "C:/Users/andre/OneDrive/Documents/EEEN/2022/Tri 2/EEEN313/Design_report/PCB/ul_L7805ABP/KiCAD/2022-09-11_03-08-28/2022-09-11_03-08-28.lib")(options "")(descr ""))
+  (lib (name LM319)(type Legacy)(uri "C:/Users/andre/OneDrive/Documents/EEEN/2022/Tri 2/EEEN313/Design_report/PCB/ul_LM319N(1)/KiCAD/2022-09-11_03-40-39/2022-09-11_03-40-39.lib")(options "")(descr ""))
+  (lib (name TLE2082)(type Legacy)(uri "C:/Users/andre/OneDrive/Documents/EEEN/2022/Tri 2/EEEN313/Design_report/PCB/ul_TLE2082CPG4/KiCAD/2022-09-11_03-37-09/2022-09-11_03-37-09.lib")(options "")(descr ""))
+  (lib (name Banana)(type Legacy)(uri "C:/Users/andre/OneDrive/Documents/EEEN/2022/Tri 2/EEEN313/Design_report/PCB/Banana/2022-09-11_04-07-35/2022-09-11_04-07-35.lib")(options "")(descr ""))
+  (lib (name LP2950)(type Legacy)(uri "C:/Users/andre/OneDrive/Documents/EEEN/2022/Tri 2/EEEN313/Design_report/PCB/LP2950_regulator/KiCAD/2022-09-11_13-25-25/2022-09-11_13-25-25.lib")(options "")(descr ""))
+  (lib (name Buck_converter_controller-rescue)(type Legacy)(uri ${KIPRJMOD}/Buck_converter_controller-rescue.lib)(options "")(descr ""))
+)

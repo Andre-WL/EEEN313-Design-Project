@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name pot_footprint)(type KiCad)(uri "C:/Users/andre/OneDrive/Documents/EEEN/2022/Tri 2/EEEN313/Design_report/PCB/pot_footprint.pretty")(options "")(descr ""))
+  (lib (name Buck_converter_controller)(type KiCad)(uri "C:/Users/andre/OneDrive/Documents/EEEN/2022/Tri 2/EEEN313/Design_report/PCB/pot_footprint/Buck_converter_controller.pretty")(options "")(descr ""))
+  (lib (name TLE2082)(type KiCad)(uri "C:/Users/andre/OneDrive/Documents/EEEN/2022/Tri 2/EEEN313/Design_report/PCB/ul_TLE2082CPG4/KiCAD/2022-09-11_03-37-09/TLE2082.pretty")(options "")(descr ""))
+  (lib (name LM319)(type KiCad)(uri "C:/Users/andre/OneDrive/Documents/EEEN/2022/Tri 2/EEEN313/Design_report/PCB/ul_LM319N(1)/KiCAD/2022-09-11_03-40-39/LM319.pretty")(options "")(descr ""))
+  (lib (name LP2905)(type KiCad)(uri "C:/Users/andre/OneDrive/Documents/EEEN/2022/Tri 2/EEEN313/Design_report/PCB/LP2950_regulator/KiCAD/2022-09-11_13-25-25/LP2905.pretty")(options "")(descr ""))
+  (lib (name banana)(type KiCad)(uri "C:/Users/andre/OneDrive/Documents/EEEN/2022/Tri 2/EEEN313/Design_report/PCB/Banana/2022-09-11_04-07-35/banana.pretty")(options "")(descr ""))
+)
